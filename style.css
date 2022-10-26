@@ -1,0 +1,81 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    text-align: center;
+    background-repeat: no-repeat;    
+    padding-bottom: 5rem;
+    background-color:  gray;  
+    
+    
+}
+
+h1{
+    font-size:250%;
+    font-style:normal;
+    display:block;
+    padding:2rem;
+    background-color: aqua;    
+};
+
+
+
+.container {  
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+
+}
+
+label{
+    font-size:x-large;
+    display: block;
+    padding-top: 2rem;
+    text-decoration: solid;
+    text-decoration-style: double;
+}
+
+input{
+    width: 15rem;
+    height: 4vh;
+    align-items: center;
+    
+   
+}
+
+button{
+    
+    margin:1rem;
+    width: 10rem;
+    height: 4vh;
+    background-color:aquamarine;
+    border-radius: .4rem;
+    border:double;
+    font-weight: bolder;
+}
+
+#output-box{
+    display: block;
+    padding: 2rem;
+    font-weight: bold;
+}
+
+
+footer{
+    
+    background-color: aqua;  
+    position:absolute;
+    bottom: 0%;
+    left: 0%;
+    right:0%;
+}
+
+footer p{
+padding: 1.7rem;
+
+}
+
+
+
+
+
